@@ -1,0 +1,3 @@
+/home/daniel/vscode/BigData/ImageServer-main(1)/ImageServer-main/build/CMakeFiles/server.dir
+/home/daniel/vscode/BigData/ImageServer-main(1)/ImageServer-main/build/CMakeFiles/edit_cache.dir
+/home/daniel/vscode/BigData/ImageServer-main(1)/ImageServer-main/build/CMakeFiles/rebuild_cache.dir

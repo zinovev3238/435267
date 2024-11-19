@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wall -Wextra CMakeFiles/server.dir/src/server.cpp.o -o server 
